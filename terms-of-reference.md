@@ -6,7 +6,7 @@ Terms of Reference (25th March 2025)
 
 ### 1.1 Purpose and objectives
 
-- To inform the strategic direction and governance structure of the project
+- To inform the strategic direction and governance structure of the project. To create an action plan to transition the Solid project to independent global governance in a time-bound manner.
 - To support the project to meet its aims reimagining data use, reuse and sharing by giving everyone the option to share that personal data, securely, for social and economic benefit. With applications across digital health, AI, and financial inclusion, of creating the conditions to mitigate online harms, data misuse and data silo-ing, for individuals and communities and ensure that individuals and communities are empowered by their own data.
 - Ensure Solid caters for every one ensuring the core technology is accessible to a diverse range of groups and adoption is promoted globally.
 
